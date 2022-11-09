@@ -1,5 +1,13 @@
 # React Pokédex
 Is an application that uses React and Tailwindcss that consumes data from the [PokeAPI](https://pokeapi.co/) and displays it to users in a pokédex fashion. Each Pokédex card allows users to view some extra information about each pokémon.
+
+*Light Mode*
+![alt text](assets/images/light-home.png)
+![alt text](assets/images/light-viewmore.png)
+*Dark Mode*
+![alt text](assets/images/dark-home.png)
+![alt text](assets/images/dark-viewmore.png)
+
 ## Features
 - Light and Dark Mode
 - Page counter
@@ -29,13 +37,3 @@ Is an application that uses React and Tailwindcss that consumes data from the [P
 - Use Effect
 - conditional rendering
 - mapping through data
-
-## App preview
-Light Mode
-![alt text](assets/images/light-home.png)
-![alt text](assets/images/light-viewmore.png)
-Dark Mode
-![alt text](assets/images/dark-home.png)
-![alt text](assets/images/dark-viewmore.png)
-
-
