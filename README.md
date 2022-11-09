@@ -1,5 +1,5 @@
 # React Pokédex
-Is an application that uses React and Tailwindcss that consumes data from the [PokeAPI](https://pokeapi.co/) and displays it to users in a pokédex fashion. Each Pokédex card allows users to view some extra information about each pokémon.
+Is an application that uses React and Tailwindcss and consumes data from the [PokeAPI](https://pokeapi.co/) and displays it to users in a pokédex fashion. Each Pokédex card allows users to view some extra information about each pokémon.
 
 *Light Mode*
 ![alt text](assets/images/light-home.png)
