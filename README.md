@@ -30,10 +30,11 @@ Is an application that uses React and Tailwindcss that consumes data from the [P
 - conditional rendering
 - mapping through data
 
-
-
+## App preview
+Light Mode
 ![alt text](assets/images/light-home.png)
 ![alt text](assets/images/light-viewmore.png)
+Dark Mode
 ![alt text](assets/images/dark-home.png)
 ![alt text](assets/images/dark-viewmore.png)
 
