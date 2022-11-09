@@ -37,3 +37,10 @@ Is a React application that is styled with Tailwindcss and consumes data from th
 - Use Effect
 - conditional rendering
 - mapping through data
+
+## App.js code snapshot
+
+![alt text](assets/images/app-js-code.png)
+### To view code for the `components` that were built, click [here](https://github.com/JustinWelsh/Pokedex-react/tree/main/frontend/src/components)
+
+### then click the *name* of the component you'd like to view :)
